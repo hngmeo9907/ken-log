@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://ken-log.vercel.app
+Host: https://kenscoming.vercel.app
 
 # Sitemaps
-Sitemap: https://ken-log.vercel.app/sitemap.xml
+Sitemap: https://kenscoming.vercel.app/sitemap.xml

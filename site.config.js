@@ -13,18 +13,18 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `ken-log`,
-      href: "https://github.com/hngmeo9907/ken-log",
+      name: `kenscoming`,
+      href: "https://github.com/hngmeo9907/kenscoming",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "ken-log",
-    description: "welcome to ken-log!",
+    title: "kenscoming",
+    description: "welcome to kenscoming!",
   },
 
   // CONFIG configration (required)
-  link: "https://ken-log.vercel.app",
+  link: "https://kenscoming.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
